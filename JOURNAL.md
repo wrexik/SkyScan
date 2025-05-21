@@ -6,6 +6,7 @@ created_at: "2025-05-21"
 ---
 
 # 05-21: Initial Repository Creation & Ideas
+``Aprox. 2,5 hours of research``
 - Created a new repository for the SkyScan project.
 - Watched videos on drone building and the INAV firmware.
 - Looked into ELRS and OpenIPC for long-range control and video streaming.
@@ -20,7 +21,7 @@ created_at: "2025-05-21"
 
 Okay, two hours later and I have actually a better option for the camera. I will be using the **Eachine Sphere Link 5.8GHz WIFI Digital HD**. Since the Wyvern Link does not support onboard recording. This will be much better option. And I will be able to use the **5.8GHz** frequency for the video and 2.4ghz for the ELRS.
 
-- This was about 2 hours of research. I will be continuing to look into the components and their compatibility.
+- This was about 2,5 hours of research. I will be continuing to look into the components and their compatibility.
 ### As of now, I have selected the following components:
 
 | Component                      | Details / Notes |
