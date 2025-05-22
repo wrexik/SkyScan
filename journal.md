@@ -26,7 +26,7 @@ Aliexpress will be the shop I will be sourcing from, cheap shipping and a huuuge
 Okay, few hours later and I have actually a better option for the camera. I will be using the **Eachine Sphere Link 5.8GHz WIFI Digital HD**. Since the Wyvern Link does not support onboard recording. This will be much better option. And I will be able to use the **5.8GHz** frequency for the video and 2.4ghz for the ELRS.
 
 > this is the Eachine Sphere VTX
-![[Video TX.jpg]]
+![[/img/Video TX.jpg]]
 
 - This was about 2,5 hours of research. I will be continuing to look into the components and their compatibility.
 # 05-21: Frame, FC, Motors
@@ -43,7 +43,7 @@ I've continued to look up parts and I think I have a quite good combination now.
 | **Camera/VTX**              | **Eachine Sphere Link** — 1080p onboard DVR, MAVLink, 800mW digital FPV                       |
 | **Receiver**                | **Radiomaster XR1 Nano ELRS** 2.4GHz/900MHz dual-band — fully INAV + ELRS compatible          |
 >  The frame I've chosen to go with
-![[Frame.jpg]]
+![[/img/Frame.jpg]]
 
 next steps:
 - Look into the GPS recomended by the frame manufacturer. Since it already has a GPS mount.
@@ -82,11 +82,11 @@ I will have my friend run over the parts and check some of the fitment. The VTX 
 
 Also interesting thing I found was this RX module while I was looking up options with the interfering frequencies was the current **Radiomaster XR1 Nano ELRS** it is dual band. So it supports both 2.4GHz and 900MHz. So I could upgrade for longer range down the road!
 
-![[RX.jpg]]
+![[/img/RX.jpg]]
 
 Hey im back, 2 classes after, I've found this cute pair of lollipop antennas, they will be great for the VTX. Since the drone will be operated by remotely on a monitor I would really like a good video feed. Might implement comuter vision for object detection.
 
-![[Lollipop antennas.jpg]]
+![[/img/Lollipop antennas.jpg]]
 
 # 05-22/23: Final costs & pitch
 
