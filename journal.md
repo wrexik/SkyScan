@@ -88,7 +88,7 @@ Hey im back, 2 classes after, I've found this cute pair of lollipop antennas, th
 
 ![[Lollipop antennas.jpg]]
 
-# 05-23: Final costs & pitch
+# 05-22/23: Final costs & pitch
 
 `took more or less about an 30 minutes`
 
