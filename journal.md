@@ -3,6 +3,7 @@ title: "SkyScan"
 author: "Wrexik"
 description: "An autopilot 4'' FPV drone with INAV and OpenIPC used for photogrammetry!"
 created_at: "2025-05-21"
+time_spent: "6-7h"
 ---
 
 # 05-21: Initial Repository Creation & Ideas
@@ -108,6 +109,9 @@ Hey I'm back, 2 classes later, I've found this cute pair of lollipop antennas. T
 | Props       | https://a.aliexpress.com/_EzHnXNG |  130 CZK - 6 USD    |
 | GPS         | https://a.aliexpress.com/_ExEMGLG |  600 CZK - 27 USD   |
 | RX          | https://a.aliexpress.com/_ExRInKe |  335 CZK - 15 USD   |
+|TOTAL||317.15 USD|
+
+The software side will be so much fun. Im looking forward to it.
 
 ---
 
