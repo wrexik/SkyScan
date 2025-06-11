@@ -94,7 +94,7 @@ Hey I'm back, 2 classes later, I've found this cute pair of lollipop antennas. T
 
 ![Antennas](img/Lollipop%20antennas.jpg)
 
-# 05-22/23: Final costs & pitch
+# 05-22/23: Final costs
 
 `took more or less about 30 minutes`
 
@@ -114,6 +114,40 @@ Hey I'm back, 2 classes later, I've found this cute pair of lollipop antennas. T
 The software side will be so much fun. Im looking forward to it.
 
 ---
+
+# 06-11: Custom Frame Modeling for 3D Printing
+Since highway is about making custom parts, so it would make sense to model the frame in 3D. To get the project **approved**! Today I will gather all the measurements and dimensions of the components for the build. I will also be looking for a good 3D material to print the frame with. So far I have been more towards PETG but ABS is also a good option. 
+PETG with carbon fiber would be pretty cool. But I dont know if my printer is compatible with it. I will have to check that out.
+
+Ok, now the measurements. I will check out the camera, VTX, FC, motors and GPS.
+| Component | Mounting | Diameter | Notes |
+| --------- | ----------- | ----- | ------ |
+| FC AIO | 25.5 x 25.5mm | 2mm | 4 x holes |
+| VTX | 30.5 x 30.5mm | unknown | 4 x holes|
+| Camera | 2 screws from the sides | n/a | 2 x holes, 19 x 19mm body |
+| Motors | 9 x 9 mm | M2 / 2mm | 4 x holes |
+
+Next up, making some kind of footprint for the components. To better understand the way they will fit together.
+Decided to try Onshape, ive been using Plasticity for a while but I want to try something new.
+
+![Onshape FC model](img/FC%20onshape.png)
+
+Its really diferent. I have modeled the Motor and FC so far.
+Now im going to model the VTC and GPS.
+Here we go then... Did the GPS it will only serve as a reference for the mount. I might skip the GPS mount for now, since I will be using a 3D printed one anyway.
+Onto the VTX, Echine doesnt have a good description of the dimensions, so again it will be only a refrence for the frame mounting.
+
+![Onshape VTX model](img/VTX%20onshape.png)
+
+They dont say if the hole is M2 or M3 so I did them as M2. I will have to check that out later. Or just add silicone feet to match the size.
+
+Now the bigger part, the frame itself. I will choose the selected frame as a refrence, and modify it to my liking. It will be pretty basic, but I will be able to modifiy it later on and update it.
+The plan is to have "Deadcat" shaped arms, for clean video without the props in the frame. And really lightweight. I have 10 minutes left of the current class, so I will get things togeter and see how it goes.
+
+Anddd End. I've only managed to experiment with the frame. And get the initial idea.
+
+![Onshape Frame model](img/Frame%20onshape.png)
+
 
 ## Pitch
 
