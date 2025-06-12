@@ -116,6 +116,9 @@ The software side will be so much fun. Im looking forward to it.
 ---
 
 # 06-11: Custom Frame Modeling for 3D Printing
+`2 hours of 3D modeling`
+
+Hey, it's Wrexik again!
 Since highway is about making custom parts, so it would make sense to model the frame in 3D. To get the project **approved**! Today I will gather all the measurements and dimensions of the components for the build. I will also be looking for a good 3D material to print the frame with. So far I have been more towards PETG but ABS is also a good option. 
 PETG with carbon fiber would be pretty cool. But I dont know if my printer is compatible with it. I will have to check that out.
 
@@ -147,6 +150,15 @@ The plan is to have "Deadcat" shaped arms, for clean video without the props in 
 Anddd End. I've only managed to experiment with the frame. And get the initial idea.
 
 ![Onshape Frame model](img/Frame%20onshape.png)
+
+# 06-12: More 3D Design & Frame Modeling
+``1,5 hours of 3D modeling``
+
+Ive added the propereller dimensions to make it easier to understand the layout. Ive also made the body little bit longer to fit everything in. It will also help with the center of gravity. I have to shower and go to bed, so I will continue tomorrow. But I think it looks super cool, with the rounded edges. *YEPEE*
+
+![Onshape Frame model 2](img/Frame2%20onshape.png)
+
+tomorrow I will try to excrude the frame and try to print the very first prototype. Just to see the sizes and the fitment of the components. Im looking forward to it!
 
 
 ## Pitch
