@@ -164,6 +164,14 @@ tomorrow I will try to excrude the frame and try to print the very first prototy
 Today I fixed some of the errors in the frame structure. The arms werent the same, I might use mirror mode next time. Ive also rounded more of the frame, it looks super cool now! When I came home from school I extruded the frame by 3mm and tryed to print it. It came in about 28g and 34m of print time. Just in PLA nothing fancy.
 Next up, I will be adding the mounting holes and standofs. And the "roof" of the drone.
 
+![Onshape Frame model 3](img/Frame3%20onshape.png)
+
+Ive added the mounting holes for motors and made the back of the drone longer to easily fit the gps and stuff. I will be experementing with the mounting for the motors, Ive made them ajustable. But also left the M2 holes for the non ajustable version. The prototype is printed, older version but it looks sick!
+
+![3D Printed Prototype](img/3d%20proto1.png)
+
+Sorry fot the image quality, my S24 Ultra broke :/. 
+
 
 ## Pitch
 
