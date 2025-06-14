@@ -160,6 +160,10 @@ Ive added the propereller dimensions to make it easier to understand the layout.
 
 tomorrow I will try to excrude the frame and try to print the very first prototype. Just to see the sizes and the fitment of the components. Im looking forward to it!
 
+# 06-13: First Prototype Printed
+Today I fixed some of the errors in the frame structure. The arms werent the same, I might use mirror mode next time. Ive also rounded more of the frame, it looks super cool now! When I came home from school I extruded the frame by 3mm and tryed to print it. It came in about 28g and 34m of print time. Just in PLA nothing fancy.
+Next up, I will be adding the mounting holes and standofs. And the "roof" of the drone.
+
 
 ## Pitch
 
