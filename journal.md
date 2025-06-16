@@ -176,7 +176,7 @@ Sorry fot the image quality, my S24 Ultra broke :/.
 Hey, Ive been contimuing to model the frame. Ive looked up frame models and made it how I think it could work. I had the screw dimensions wrong, should be fixed now. I still dont know the diameter of the screw hole on the VTX. In case thats wrong it could be easily fixed after I get the parts from the grant. Ive added holes for mounting the roof of the drone. It will be pretty much the same thing like on the bottom, but with more holes and grill for the VTX fan. Well he might be covered by the battery, but it should work even without it. As far as my motivation goes, Im "motimaxxed" Im doing my best with the documentation for yall. I will work on the ReadMe next. With pretty screenshots. Really praying for approval rn.
 Here is the current status of the drone. I had a while to work on it in class.
 
-![Onshape Frame model 4](img/Frame3%20onshape.png)
+![Onshape Frame model 4](img/Frame4%20onshape.png)
 
 ## Pitch
 
