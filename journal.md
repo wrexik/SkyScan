@@ -160,7 +160,7 @@ Ive added the propereller dimensions to make it easier to understand the layout.
 
 tomorrow I will try to excrude the frame and try to print the very first prototype. Just to see the sizes and the fitment of the components. Im looking forward to it!
 
-# 06-13: First Prototype Printed
+# 06-14: First Prototype Printed
 Today I fixed some of the errors in the frame structure. The arms werent the same, I might use mirror mode next time. Ive also rounded more of the frame, it looks super cool now! When I came home from school I extruded the frame by 3mm and tryed to print it. It came in about 28g and 34m of print time. Just in PLA nothing fancy.
 Next up, I will be adding the mounting holes and standofs. And the "roof" of the drone.
 
@@ -170,8 +170,13 @@ Ive added the mounting holes for motors and made the back of the drone longer to
 
 ![3D Printed Prototype](img/3d%20proto1.png)
 
-Sorry fot the image quality, my S24 Ultra broke :/. 
+Sorry fot the image quality, my S24 Ultra broke :/.
 
+# 06-16 More CAD! Weight reduction.
+Hey, Ive been contimuing to model the frame. Ive looked up frame models and made it how I think it could work. I had the screw dimensions wrong, should be fixed now. I still dont know the diameter of the screw hole on the VTX. In case thats wrong it could be easily fixed after I get the parts from the grant. Ive added holes for mounting the roof of the drone. It will be pretty much the same thing like on the bottom, but with more holes and grill for the VTX fan. Well he might be covered by the battery, but it should work even without it. As far as my motivation goes, Im "motimaxxed" Im doing my best with the documentation for yall. I will work on the ReadMe next. With pretty screenshots. Really praying for approval rn.
+Here is the current status of the drone. I had a while to work on it in class.
+
+![Onshape Frame model 4](img/Frame3%20onshape.png)
 
 ## Pitch
 
