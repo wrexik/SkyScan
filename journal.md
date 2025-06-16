@@ -178,6 +178,12 @@ Here is the current status of the drone. I had a while to work on it in class.
 
 ![Onshape Frame model 4](img/Frame4%20onshape.png)
 
+I also looked up some filaments and compared PET-G CF with other options. And again again more holes! Starting with the top now, I need to figure out the camera mount. But there is also nearly to no documentation like with the VTX. Top will be mostly holes with a place to mount the strap for the battery. With im not sure also, what battery will I have to use. Some custom 18650 cells?? Also an option.
+
+But I have no experience, cool to experiment with tho. Okay moving to the top...
+
+
+
 ## Pitch
 
 Hey @alexren!  
