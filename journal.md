@@ -173,6 +173,9 @@ Ive added the mounting holes for motors and made the back of the drone longer to
 Sorry fot the image quality, my S24 Ultra broke :/.
 
 # 06-16 More CAD! Weight reduction.
+
+``Took some time, 3,5 of CAD and stuff``
+
 Hey, Ive been contimuing to model the frame. Ive looked up frame models and made it how I think it could work. I had the screw dimensions wrong, should be fixed now. I still dont know the diameter of the screw hole on the VTX. In case thats wrong it could be easily fixed after I get the parts from the grant. Ive added holes for mounting the roof of the drone. It will be pretty much the same thing like on the bottom, but with more holes and grill for the VTX fan. Well he might be covered by the battery, but it should work even without it. As far as my motivation goes, Im "motimaxxed" Im doing my best with the documentation for yall. I will work on the ReadMe next. With pretty screenshots. Really praying for approval rn.
 Here is the current status of the drone. I had a while to work on it in class.
 
@@ -181,6 +184,19 @@ Here is the current status of the drone. I had a while to work on it in class.
 I also looked up some filaments and compared PET-G CF with other options. And again again more holes! Starting with the top now, I need to figure out the camera mount. But there is also nearly to no documentation like with the VTX. Top will be mostly holes with a place to mount the strap for the battery. With im not sure also, what battery will I have to use. Some custom 18650 cells?? Also an option.
 
 But I have no experience, cool to experiment with tho. Okay moving to the top...
+
+Little while later I have this thing. I may ajust the holes a little more, for the battery but the dimensions I hope are correct. 
+
+![Onshape top](img/Top%20onsape.png)
+
+I found out that you can actually share a link, so here it is [Onshape model](https://cad.onshape.com/documents/29a5ea5b7ab0b002b2ab2d66/w/dfc60f1223006b31794c7fb2/e/e7f5c2a8a30eddbf3b560972?renderMode=0&uiState=68501575082a9427eae64d49)
+I turned off exporting since I want to be the one to post **my** model to Printables :D
+
+And we are 3d!
+
+![We are 3D!](img/Frame%203ddd.png)
+
+Ive also smoothed out the corners of the rods and some shapes to make it look smooth. 3D printing is better with way less material waste, over subtractive machining. The thing on the back is for the GPS. It isnt accurate but for now as proof of concept it will work really well. I hope this makes the project acceptable to fund me. I strugled but look what I learned! Amazing. Still Im looking forward programing it more tho :D. 
 
 
 
