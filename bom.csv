@@ -1,14 +1,13 @@
-Component,Model / Specs,Notes,Price (CZK),Price (USD)
-Frame,Custom 3d printed, my design,"supports 25.5x25.5mm, 30.5x30.5mm",730,33.15
-Flight Controller + ESC,Speedybee F405 AIO 40A (25.5x25.5mm),"BLHeli_32, Bluejay, 3–6S support",1330,61
-Motors,4x T-Motor P1604 3800KV,"4S optimized, 9x9mm mount",1142,52
-Receiver,Radiomaster XR1 Nano Dual-Band ELRS 2.4GHz + 900MHz,High range redundancy,335,15
-Camera & VTX,EMAX Wyvern Link Alpha (OpenIPC support, 5.8GHz HD, 100mW),OpenIPC-compatible,2350,107
-Props,"Gemfan Hurricane 4023 / HQProp T4x2.5x3","For 4"" efficiency/freestyle",130,6
-Battery (light),4S 850mAh Li-ion,Sub-250g compatible,–,–
-Battery (long range),"4S 18650 3000mAh Li-ion (e.g., VTC6 pack)",Up to 40+ min flight,–,–
-GPS,Generic M8Q or BN-220 GPS Module,For navigation and failsafe,600,27
-Buzzer,Standard 5V buzzer with beacon function,Optional but useful,45,2
-VTX Antenna,U.FL 5.8GHz Antenna,Compatible with Wyvern VTX,300,14
-Total,,,,6962,317.15
-Notes,,"Prices are approximate and may vary based on location and availability in Czech Republic,,,
+Component,Model / Specs,Notes,Price (CZK),Price (USD),Link
+Frame,Custom 3d printed, my design,"supports 25.5x25.5mm, 30.5x30.5mm",730,33.15,
+Flight Controller + ESC,Speedybee F405 AIO 40A (25.5x25.5mm),"BLHeli_32, Bluejay, 3–6S support",1330,61,https://a.aliexpress.com/_Ez89AS2
+Motors,4x T-Motor P1604 3800KV,"4S optimized, 9x9mm mount",1142,52,https://a.aliexpress.com/_EINYVGa
+Receiver,Radiomaster XR1 Nano Dual-Band ELRS 2.4GHz + 900MHz,High range redundancy,335,15,https://a.aliexpress.com/_ExRInKe
+Camera & VTX,EMAX Wyvern Link Alpha (OpenIPC support, 5.8GHz HD, 100mW),OpenIPC-compatible,2350,107,https://a.aliexpress.com/_EHbSKhC
+Props,"Gemfan Hurricane 4023 / HQProp T4x2.5x3","For 4"" efficiency/freestyle",130,6,https://a.aliexpress.com/_EzHnXNG
+Battery (light),4S 850mAh Li-ion,Sub-250g compatible,,, 
+Battery (long range),"4S 18650 3000mAh Li-ion (e.g., VTC6 pack)",Up to 40+ min flight,,, 
+GPS,Generic M8Q or BN-220 GPS Module,For navigation and failsafe,600,27,https://a.aliexpress.com/_ExEMGLG
+Buzzer,Standard 5V buzzer with beacon function,Optional but useful,45,2,https://a.aliexpress.com/_EHUrHM6
+VTX Antenna,U.FL 5.8GHz Antenna,Compatible with Wyvern VTX,300,14,https://a.aliexpress.com/_Ev1Kqw6
+Total,,,,6962,317.15,
