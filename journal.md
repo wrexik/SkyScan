@@ -198,6 +198,36 @@ And we are 3d!
 
 Ive also smoothed out the corners of the rods and some shapes to make it look smooth. 3D printing is better with way less material waste, over subtractive machining. The thing on the back is for the GPS. It isnt accurate but for now as proof of concept it will work really well. I hope this makes the project acceptable to fund me. I strugled but look what I learned! Amazing. Still Im looking forward programing it more tho :D. 
 
+# 06-19: More 3D Design & Second Prototype Printed
+``5 hours of 3D modeling and printing``
+
+Ive printed the second prototype of the frame. The holes in the frame added a lot of rigidity to the frame. I was quite surprised how well and stable the back arms are. I will be adding more holes to the front arms, since they are quite thick. And still flexible. Ive printed it in PLA with 25% infill. The weight is was around 30g. 
+
+![3D Printed Prototype 2](img/3d%20proto2.png)
+
+There was my error with the hole sizes, I was trying to screw right into the plastic. M2 screws. But they are too big. Discussed with Tony that 1.5mm are more suitable. So I will be adjusting the model to fit the M2 screws. 
+
+Since I had whole 4 lessons to work on the project, I went kinda crazy. I didnt take any screenshots of the process, but I have the final result. I have added more holes to make the vertical area bigger on the arm. This will help with the rigidity of the frame. 
+
+Im also experimenting with extruded "rods" to make the frame more rigid. I will be adding them to the front arms, since they are quite thick. And still flexible.
+
+![Onshape Frame model 5](img/Frame5%20onshape.png)
+
+Now Im going to extrude the whole frame with the changes. And smooth out the edges of some features. It will also add material to make it stronger. Well, here goes nothing. I will be printing it when I get home. I might try petg this time.
+
+
+![Onshape Frame model 6](img/Frame6%20onshape.png)
+
+Alright back home, Im writing on my laptop this time so I dont have to commit so offen. Lets slice the model and see how it goes. I predict that the print will take around 1 hour and 30 minutes. The weight should be around 40g. I will be using the same 25% of gyroid infill. I will be using the same settings as last time, with a 0.4mm nozzle.
+
+And here it is! Its even more sturdy and rigid than the last one! The rods on the front arms are actually great and working as intended. I was surprised how well it got improved. Ive also made it a little bit taller, witch helped to compensate all the holes in the frame. So now both axis are strong.
+
+![Onshape Frame model 7](img/Frame7%20onshape.png)
+
+I will talk to Alex, what does he think. I dont really see the point of making the frame any more complex. I would definitely try to work even more on the rigidity, but in this weigh class and size, wihout a payload, I think it is okay. 
+
+See you tomorrow!
+
 
 
 ## Pitch
